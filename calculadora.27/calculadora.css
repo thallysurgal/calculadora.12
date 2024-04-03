@@ -1,0 +1,36 @@
+main{
+    background-color: rgb(218, 196, 196);
+    width: 700px;
+    height: 500px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 550px;
+    
+ }
+    
+input {
+    margin-top: 29px;
+    height: 75px;
+    width: 404px;
+    box-shadow: 1px 1px;
+ }
+
+ body {
+    background-color: white;
+ }
+    
+button{
+    
+    margin-top: 10px;
+    height: 80px;
+    width: 100px;
+    background-color: white;
+    font-size: 30px;
+    
+}
+
+#but {
+    width: 206px;
+    margin-bottom: 25px;
+}
